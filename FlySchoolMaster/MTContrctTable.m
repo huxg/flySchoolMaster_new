@@ -303,7 +303,7 @@
 //{
 //    return loadview;
 //}
-//修啊该
+//修啊该fgdgdf
 //网络请求数据
 -(void)getdata
 {
