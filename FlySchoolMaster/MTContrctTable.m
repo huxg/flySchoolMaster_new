@@ -225,6 +225,8 @@
     
     UILabel *workaddress = [[UILabel alloc]initWithFrame:CGRectMake(8, 30, 150, 20)];
     
+    workaddress.font = [UIFont systemFontOfSize:12];
+    
     UIButton *diannum = [UIButton buttonWithType:UIButtonTypeCustom];
     
     diannum.frame = CGRectMake(160, 30, 30, 20);
